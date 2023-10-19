@@ -1,0 +1,24 @@
+Qator-qator kod yozib,
+Dastur qilay so'zimni
+GooglePlayda zo'r bo'lib
+Mashxur qilay o'zimni
+
+Buyruq bersam bajargan
+IDE ga qoyilman
+Kodni tezroq yozishga
+Assistentga moyilman
+
+Android qalbini,
+Debug qilib zabt etay.
+Zerikkancha zerikib,
+Konsollarni tark etay
+
+Ulab olib paketni
+Pubspace ni bopladim
+Pub get qilib tugmani
+Tezkorlikni hoxladim.
+
+Paket qo'yib flutter
+Dizaynni boplaptir.
+Hayratlanib Dasturchi
+Aqli go'yo to'xtabtir.
