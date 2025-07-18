@@ -1,0 +1,366 @@
+[
+  {
+    "category_id": "oilaviy_dostlik",
+    "category_name": "Oilaviy va Do'stlik",
+    "category_emoji": "👨‍👩‍👧‍👦",
+    "poems": [
+      {
+        "poem_id": "togajonim",
+        "title": "Tog’ajonim",
+        "file":"https://raw.githubusercontent.com/BIOSTEENYC/abdulhakim_sherlari/master/documents/oilaviy_dostlik/togajonim.txt",
+        "poem_emoji": "🏔️",
+        "category_id": "oilaviy_dostlik"
+      },
+      {
+        "poem_id": "onajonim_xursand_boling",
+        "title": "Onajonim xursand bo’ling",
+        "file":"https://raw.githubusercontent.com/BIOSTEENYC/abdulhakim_sherlari/master/documents/oilaviy_dostlik/onajonim_xursand_boling.txt",
+        "poem_emoji": "🤱",
+        "category_id": "oilaviy_dostlik"
+      },
+      {
+        "poem_id": "ukajonim_olga",
+        "title": "Ukajonim olg’a",
+        "file":"https://raw.githubusercontent.com/BIOSTEENYC/abdulhakim_sherlari/master/documents/oilaviy_dostlik/ukajonim_olga.txt",
+        "poem_emoji": "👦",
+        "category_id": "oilaviy_dostlik"
+      },
+      {
+        "poem_id": "onajonim",
+        "title": "Onajonim",
+        "file":"https://raw.githubusercontent.com/BIOSTEENYC/abdulhakim_sherlari/master/documents/oilaviy_dostlik/onajonim.txt",
+        "poem_emoji": "👩",
+        "category_id": "oilaviy_dostlik"
+      },
+      {
+        "poem_id": "siz_bolasiz_onajonim_2_0",
+        "title": "Siz bo'lasiz![Onajonim.2.0]",
+        "file":"https://raw.githubusercontent.com/BIOSTEENYC/abdulhakim_sherlari/master/documents/oilaviy_dostlik/siz_bolasiz_onajonim_2_0.txt",
+        "poem_emoji": "👩‍👧",
+        "category_id": "oilaviy_dostlik"
+      },
+      {
+        "poem_id": "otajonim",
+        "title": "Otajonim",
+        "file":"https://raw.githubusercontent.com/BIOSTEENYC/abdulhakim_sherlari/master/documents/oilaviy_dostlik/otajonim.txt",
+        "poem_emoji": "👨",
+        "category_id": "oilaviy_dostlik"
+      },
+      {
+        "poem_id": "qadrdonim",
+        "title": "Qadrdonim",
+        "file":"https://raw.githubusercontent.com/BIOSTEENYC/abdulhakim_sherlari/master/documents/oilaviy_dostlik/qadrdonim.txt",
+        "poem_emoji": "🤝",
+        "category_id": "oilaviy_dostlik"
+      },
+      {
+        "poem_id": "dostlarim",
+        "title": "Do'stlarim",
+        "file":"https://raw.githubusercontent.com/BIOSTEENYC/abdulhakim_sherlari/master/documents/oilaviy_dostlik/dostlarim.txt",
+        "poem_emoji": "🧑‍🤝‍🧑",
+        "category_id": "oilaviy_dostlik"
+      },
+      {
+        "poem_id": "dostlarim_meni",
+        "title": "Do'stlarim meni",
+        "file":"https://raw.githubusercontent.com/BIOSTEENYC/abdulhakim_sherlari/master/documents/oilaviy_dostlik/dostlarim_meni.txt",
+        "poem_emoji": "👫",
+        "category_id": "oilaviy_dostlik"
+      },
+      {
+        "poem_id": "yaxshi_dost",
+        "title": "Yaxshi do'st",
+        "file":"https://raw.githubusercontent.com/BIOSTEENYC/abdulhakim_sherlari/master/documents/oilaviy_dostlik/yaxshi_dost.txt",
+        "poem_emoji": "👍",
+        "category_id": "oilaviy_dostlik"
+      },
+      {
+        "poem_id": "ayting_siz_ham",
+        "title": "Ayting, siz ham.",
+        "file":"https://raw.githubusercontent.com/BIOSTEENYC/abdulhakim_sherlari/master/documents/oilaviy_dostlik/ayting_siz_ham.txt",
+        "poem_emoji": "🗣️",
+        "category_id": "oilaviy_dostlik"
+      }
+    ]
+  },
+  {
+    "category_id": "dasturlash_texnologiya",
+    "category_name": "Dasturlash va Texnologiya",
+    "category_emoji": "💻",
+    "poems": [
+      {
+        "poem_id": "qadrsiz_vaqt_meni_qadrimmi",
+        "title": "Qadrsiz vaqt meni qadrimmi?",
+        "file":"https://raw.githubusercontent.com/BIOSTEENYC/abdulhakim_sherlari/master/documents/dasturlash_texnologiya/qadrsiz_vaqt_meni_qadrimmi.txt",
+        "poem_emoji": "⏳",
+        "category_id": "dasturlash_texnologiya"
+      },
+      {
+        "poem_id": "dasturlash_yoli",
+        "title": "Dasturlash yo'li.",
+        "file":"https://raw.githubusercontent.com/BIOSTEENYC/abdulhakim_sherlari/master/documents/dasturlash_texnologiya/dasturlash_yoli.txt",
+        "poem_emoji": "🛣️",
+        "category_id": "dasturlash_texnologiya"
+      },
+      {
+        "poem_id": "kompyuterimga_atalgan",
+        "title": "Kompyuterimga atalgan",
+        "file":"https://raw.githubusercontent.com/BIOSTEENYC/abdulhakim_sherlari/master/documents/dasturlash_texnologiya/kompyuterimga_atalgan.txt",
+        "poem_emoji": "🖥️",
+        "category_id": "dasturlash_texnologiya"
+      },
+      {
+        "poem_id": "klaviatura",
+        "title": "Klaviatura",
+        "file":"https://raw.githubusercontent.com/BIOSTEENYC/abdulhakim_sherlari/master/documents/dasturlash_texnologiya/klaviatura.txt",
+        "poem_emoji": "⌨️",
+        "category_id": "dasturlash_texnologiya"
+      },
+      {
+        "poem_id": "kompyuter_qurilmalari",
+        "title": "Kompyuter Qurilmalari",
+        "file":"https://raw.githubusercontent.com/BIOSTEENYC/abdulhakim_sherlari/master/documents/dasturlash_texnologiya/kompyuter_qurilmalari.txt",
+        "poem_emoji": "🖱️",
+        "category_id": "dasturlash_texnologiya"
+      },
+      {
+        "poem_id": "dasturlash",
+        "title": "Dasturlash",
+        "file":"https://raw.githubusercontent.com/BIOSTEENYC/abdulhakim_sherlari/master/documents/dasturlash_texnologiya/dasturlash.txt",
+        "poem_emoji": "👨‍💻",
+        "category_id": "dasturlash_texnologiya"
+      },
+      {
+        "poem_id": "yosh_dasturchi_orzusi",
+        "title": "Yosh Dasturchi orzusi",
+        "file":"https://raw.githubusercontent.com/BIOSTEENYC/abdulhakim_sherlari/master/documents/dasturlash_texnologiya/yosh_dasturchi_orzusi.txt",
+        "poem_emoji": "🧑‍💻",
+        "category_id": "dasturlash_texnologiya"
+      },
+      {
+        "poem_id": "unreal_engine",
+        "title": "Unreal Engine",
+        "file":"https://raw.githubusercontent.com/BIOSTEENYC/abdulhakim_sherlari/master/documents/dasturlash_texnologiya/unreal_engine.txt",
+        "poem_emoji": "🎮",
+        "category_id": "dasturlash_texnologiya"
+      },
+      {
+        "poem_id": "internetim_ishlamay_qoldi",
+        "title": "Internetim ishlamay qoldi.",
+        "file":"https://raw.githubusercontent.com/BIOSTEENYC/abdulhakim_sherlari/master/documents/dasturlash_texnologiya/internetim_ishlamay_qoldi.txt",
+        "poem_emoji": "🌐",
+        "category_id": "dasturlash_texnologiya"
+      },
+      {
+        "poem_id": "qalbim_arznomasi",
+        "title": "Qalbim arznomasi",
+        "file":"https://raw.githubusercontent.com/BIOSTEENYC/abdulhakim_sherlari/master/documents/dasturlash_texnologiya/qalbim_arznomasi.txt",
+        "poem_emoji": "💌",
+        "category_id": "dasturlash_texnologiya"
+      }
+    ]
+  },
+  {
+    "category_id": "transport",
+    "category_name": "Transport",
+    "category_emoji": "🚗",
+    "poems": [
+      {
+        "poem_id": "damas_va_nexia",
+        "title": "DAMAS va Nexia",
+        "file":"https://raw.githubusercontent.com/BIOSTEENYC/abdulhakim_sherlari/master/documents/transport/damas_va_nexia.txt",
+        "poem_emoji": "🚙",
+        "category_id": "transport"
+      },
+      {
+        "poem_id": "damas_legenda",
+        "title": "Damas Legenda",
+        "file":"https://raw.githubusercontent.com/BIOSTEENYC/abdulhakim_sherlari/master/documents/transport/damas_legenda.txt",
+        "poem_emoji": "🚐",
+        "category_id": "transport"
+      }
+    ]
+  },
+  {
+    "category_id": "koinot_tabiat",
+    "category_name": "Koinot va Tabiat",
+    "category_emoji": "🌌",
+    "poems": [
+      {
+        "poem_id": "yer_va_mars",
+        "title": "Yer va Mars",
+        "file":"https://raw.githubusercontent.com/BIOSTEENYC/abdulhakim_sherlari/master/documents/koinot_tabiat/yer_va_mars.txt",
+        "poem_emoji": "🌍",
+        "category_id": "koinot_tabiat"
+      },
+      {
+        "poem_id": "koinot",
+        "title": "Koinot",
+        "file":"https://raw.githubusercontent.com/BIOSTEENYC/abdulhakim_sherlari/master/documents/koinot_tabiat/koinot.txt",
+        "poem_emoji": "🪐",
+        "category_id": "koinot_tabiat"
+      },
+      {
+        "poem_id": "soginch",
+        "title": "Sog’inch",
+        "file":"https://raw.githubusercontent.com/BIOSTEENYC/abdulhakim_sherlari/master/documents/koinot_tabiat/soginch.txt",
+        "poem_emoji": "😢",
+        "category_id": "koinot_tabiat"
+      }
+    ]
+  },
+  {
+    "category_id": "hayotiy_falsafa_o_zini_anglash",
+    "category_name": "Hayotiy Falsafa va O'z-o'zini Anglash",
+    "category_emoji": "🧠",
+    "poems": [
+      {
+        "poem_id": "tanlovlar_yolida",
+        "title": "Tanlovlar yo'lida!",
+        "file":"https://raw.githubusercontent.com/BIOSTEENYC/abdulhakim_sherlari/master/documents/hayotiy_falsafa_o_zini_anglash/tanlovlar_yolida.txt",
+        "poem_emoji": "🚦",
+        "category_id": "hayotiy_falsafa_o_zini_anglash"
+      },
+      {
+        "poem_id": "hayol_va_haqiqat",
+        "title": "Hayol va Haqiqat.",
+        "file":"https://raw.githubusercontent.com/BIOSTEENYC/abdulhakim_sherlari/master/documents/hayotiy_falsafa_o_zini_anglash/hayol_va_haqiqat.txt",
+        "poem_emoji": "🤔",
+        "category_id": "hayotiy_falsafa_o_zini_anglash"
+      },
+      {
+        "poem_id": "vaqt_qadri",
+        "title": "Vaqt qadri",
+        "file":"https://raw.githubusercontent.com/BIOSTEENYC/abdulhakim_sherlari/master/documents/hayotiy_falsafa_o_zini_anglash/vaqt_qadri.txt",
+        "poem_emoji": "⏰",
+        "category_id": "hayotiy_falsafa_o_zini_anglash"
+      },
+      {
+        "poem_id": "pushaymonlik",
+        "title": "Pushaymonlik",
+        "file":"https://raw.githubusercontent.com/BIOSTEENYC/abdulhakim_sherlari/master/documents/hayotiy_falsafa_o_zini_anglash/pushaymonlik.txt",
+        "poem_emoji": "😔",
+        "category_id": "hayotiy_falsafa_o_zini_anglash"
+      },
+      {
+        "poem_id": "vijdon_sozi",
+        "title": "Vijdon so'zi",
+        "file":"https://raw.githubusercontent.com/BIOSTEENYC/abdulhakim_sherlari/master/documents/hayotiy_falsafa_o_zini_anglash/vijdon_sozi.txt",
+        "poem_emoji": "🫀",
+        "category_id": "hayotiy_falsafa_o_zini_anglash"
+      },
+      {
+        "poem_id": "qani_aytchi_zor_boldingmi",
+        "title": "Qani aytchi zo'r bo'ldingmi?",
+        "file":"https://raw.githubusercontent.com/BIOSTEENYC/abdulhakim_sherlari/master/documents/hayotiy_falsafa_o_zini_anglash/qani_aytchi_zor_boldingmi.txt",
+        "poem_emoji": "🦸",
+        "category_id": "hayotiy_falsafa_o_zini_anglash"
+      },
+      {
+        "poem_id": "yaxshi_bol_1_0",
+        "title": "Yaxshi bo'l[1.0]",
+        "file":"https://raw.githubusercontent.com/BIOSTEENYC/abdulhakim_sherlari/master/documents/hayotiy_falsafa_o_zini_anglash/yaxshi_bol_1_0.txt",
+        "poem_emoji": "🧒",
+        "category_id": "hayotiy_falsafa_o_zini_anglash"
+      },
+      {
+        "poem_id": "yaxshi_bol_2_0",
+        "title": "Yaxshi bo'l[2.0]",
+        "file":"https://raw.githubusercontent.com/BIOSTEENYC/abdulhakim_sherlari/master/documents/hayotiy_falsafa_o_zini_anglash/yaxshi_bol_2_0.txt",
+        "poem_emoji": "👦",
+        "category_id": "hayotiy_falsafa_o_zini_anglash"
+      },
+      {
+        "poem_id": "yaxshi_bol_3_0",
+        "title": "Yaxshi bol[3.0]",
+        "file":"https://raw.githubusercontent.com/BIOSTEENYC/abdulhakim_sherlari/master/documents/hayotiy_falsafa_o_zini_anglash/yaxshi_bol_3_0.txt",
+        "poem_emoji": "👧",
+        "category_id": "hayotiy_falsafa_o_zini_anglash"
+      },
+      {
+        "poem_id": "aytishuv_sher_i",
+        "title": "Aytishuv she'ri",
+        "file":"https://raw.githubusercontent.com/BIOSTEENYC/abdulhakim_sherlari/master/documents/hayotiy_falsafa_o_zini_anglash/aytishuv_sher_i.txt",
+        "poem_emoji": "🎤",
+        "category_id": "hayotiy_falsafa_o_zini_anglash"
+      }
+    ]
+  },
+  {
+    "category_id": "talim_ustozlar",
+    "category_name": "Ta'lim va Ustozlar",
+    "category_emoji": "🎓",
+    "poems": [
+      {
+        "poem_id": "yaxshi_oqing_yaxshi_inson_bolasiz",
+        "title": "Yaxshi oʻqing, yaxshi inson boʻlasiz.",
+        "file":"https://raw.githubusercontent.com/BIOSTEENYC/abdulhakim_sherlari/master/documents/talim_ustozlar/yaxshi_oqing_yaxshi_inson_bolasiz.txt",
+        "poem_emoji": "📚",
+        "category_id": "talim_ustozlar"
+      },
+      {
+        "poem_id": "rahmat_ustozim",
+        "title": "Rahmat ustozim!",
+        "file":"https://raw.githubusercontent.com/BIOSTEENYC/abdulhakim_sherlari/master/documents/talim_ustozlar/rahmat_ustozim.txt",
+        "poem_emoji": "🙏",
+        "category_id": "talim_ustozlar"
+      },
+      {
+        "poem_id": "mening_ustozlarimga",
+        "title": "Mening Ustozlarimga!",
+        "file":"https://raw.githubusercontent.com/BIOSTEENYC/abdulhakim_sherlari/master/documents/talim_ustozlar/mening_ustozlarimga.txt",
+        "poem_emoji": "🧑‍🏫",
+        "category_id": "talim_ustozlar"
+      },
+      {
+        "poem_id": "ustozlar",
+        "title": "Ustozlar",
+        "file":"https://raw.githubusercontent.com/BIOSTEENYC/abdulhakim_sherlari/master/documents/talim_ustozlar/ustozlar.txt",
+        "poem_emoji": "👨‍🏫",
+        "category_id": "talim_ustozlar"
+      },
+      {
+        "poem_id": "ustozim_rap_version_bayram_uchun",
+        "title": "Ustozim (RAP~version).Bayram Uchun",
+        "file":"https://raw.githubusercontent.com/BIOSTEENYC/abdulhakim_sherlari/master/documents/talim_ustozlar/ustozim_rap_version_bayram_uchun.txt",
+        "poem_emoji": "🎶",
+        "category_id": "talim_ustozlar"
+      },
+      {
+        "poem_id": "qadrdon_ustozlarim",
+        "title": "Qadrdon ustozlarim",
+        "file":"https://raw.githubusercontent.com/BIOSTEENYC/abdulhakim_sherlari/master/documents/talim_ustozlar/qadrdon_ustozlarim.txt",
+        "poem_emoji": "🤗",
+        "category_id": "talim_ustozlar"
+      },
+      {
+        "poem_id": "maktab",
+        "title": "Maktab",
+        "file":"https://raw.githubusercontent.com/BIOSTEENYC/abdulhakim_sherlari/master/documents/talim_ustozlar/maktab.txt",
+        "poem_emoji": "🏫",
+        "category_id": "talim_ustozlar"
+      },
+      {
+        "poem_id": "hayr_maktabim",
+        "title": "Hayr maktabim",
+        "file":"https://raw.githubusercontent.com/BIOSTEENYC/abdulhakim_sherlari/master/documents/talim_ustozlar/hayr_maktabim.txt",
+        "poem_emoji": "👋",
+        "category_id": "talim_ustozlar"
+      }
+    ]
+  },
+  {
+    "category_id": "vatan",
+    "category_name": "Vatan",
+    "category_emoji": "🏠",
+    "poems": [
+      {
+        "poem_id": "vatan",
+        "title": "Vatan",
+        "file":"https://raw.githubusercontent.com/BIOSTEENYC/abdulhakim_sherlari/master/documents/vatan/vatan.txt",
+        "poem_emoji": "🇺🇿",
+        "category_id": "vatan"
+      }
+    ]
+  }
+]
