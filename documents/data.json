@@ -78,6 +78,13 @@
         "poem_id": "ayting_siz_ham",
         "title": "Ayting, siz ham.",
         "file":"https://raw.githubusercontent.com/BIOSTEENYC/abdulhakim_sherlari/master/documents/oilaviy_dostlik/ayting_siz_ham.txt",
+        "poem_emoji": "🇮🇷 🙋‍♀️",
+        "category_id": "oilaviy_dostlik"
+      },
+      {
+        "poem_id": "forsiy_qiz",
+        "title": "Forsiy qiz",
+        "file":"https://raw.githubusercontent.com/BIOSTEENYC/abdulhakim_sherlari/master/documents/oilaviy_dostlik/ayting_siz_ham.txt",
         "poem_emoji": "🗣️",
         "category_id": "oilaviy_dostlik"
       }
